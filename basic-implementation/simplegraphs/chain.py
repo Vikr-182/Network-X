@@ -1,3 +1,5 @@
+#Sketching a Cycle graph manually.
+#You can also use cycle_graph(n)
 import networkx as nx 
 import matplotlib.pyplot as plt
 
