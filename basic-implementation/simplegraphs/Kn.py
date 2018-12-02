@@ -1,3 +1,5 @@
+#Sketching a complete graph manually
+#Can also use complete_graph(n)
 import networkx as nx
 import matplotlib.pyplot as plt
 

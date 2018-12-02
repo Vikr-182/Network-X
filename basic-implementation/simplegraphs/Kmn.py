@@ -1,4 +1,5 @@
 #Sketching a Bipartite graph manually.
+#Can also use complete_multipartite_graph(*number_of_partitions)
 import networkx as nx
 import matplotlib.pyplot as plt
 
