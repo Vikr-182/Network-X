@@ -1,3 +1,4 @@
+#Sketching a Bipartite graph manually.
 import networkx as nx
 import matplotlib.pyplot as plt
 
