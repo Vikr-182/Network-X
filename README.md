@@ -11,21 +11,22 @@ It can also be used to simulate the Data Structures-Graphs problems which would 
 
 Please install pip for python first -
 
-* For python3 :
 
+* For python3 :
 `sudo apt install python3-pip `
 
-* For python2 :
 
+* For python2 :
 `sudo apt install python-pip `
 
-To install Network-X use `sudo` as it may require permission to install software systemwide :
 
+To install Network-X use `sudo` as it may require permission to install software systemwide :
 ` sudo apt install networkx`
 
-Alternatively you can also use --user flag -
 
+Alternatively you can also use --user flag -
 `sudo apt install --user networkx`
+
 
 #### Installing using other methods
 
