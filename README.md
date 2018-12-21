@@ -24,7 +24,7 @@ To install Network-X use `sudo` as it may require permission to install software
 ` sudo apt install networkx`
 
 
-Alternatively you can also use --user flag :
+Alternatively you can also use the --user flag :
 `sudo apt install --user networkx`
 
 
